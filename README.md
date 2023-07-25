@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <tr>
         <td colspan="2" align="center">
-            <a href="https://github.com/elisandrosgp#gh-light-mode-only">
-            <img src="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="Meu Status Github"/></a>
-            <a href="https://github.com/elisandrosgp#gh-dark-mode-only">
-            <img src="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Meu Status Github"/></a>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake-dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
+              <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
+</picture>
         </td>
     </tr>
     
