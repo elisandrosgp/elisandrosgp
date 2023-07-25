@@ -26,15 +26,11 @@ Here are some ideas to get you started:
     <tr>
         <td align="center"><a href="https://github.com/elisandrosgp#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elisandrosgp&theme=default"/></a><a href="https://github.com/elisandrosgp#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elisandrosgp&theme=tokyonight"/></a></td>
     </tr>
-
-<tr>
-        <td colspan="2" align="center">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake-dark.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
-              <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
-</picture>
-        </td>
-    </tr>
     
 </table>
+
+<picture rowspan="2" align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/elisandrosgp/elisandrosgp/output/github-contribution-grid-snake.svg">
+</picture>
